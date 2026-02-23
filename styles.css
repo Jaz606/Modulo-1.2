@@ -32,14 +32,14 @@ section{
 }
 
 p{
-    color: rgb(9, 85, 52);
+    color: rgb(203, 4, 190);
     font-size: 28px;
     font-family: Verdana;
     font-weight: bold;
     text-align: center;
 }
 
-.section {
+.section01 {
     height: 250px;
     padding: 20px;
     margin:100px;
@@ -47,9 +47,10 @@ p{
 
 
     background-color: aliceblue;
-    background-image: url(https://www.google.com/imgres?q=rosa%20azul%20jpg&imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2013%2F07%2F21%2F13%2F00%2Frose-165819_640.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fes%2Fimages%2Fsearch%2Frosa%2520azul%2F&docid=WF-edzQXdnOFTM&tbnid=iXDtLefYqG4q6M&vet=12ahUKEwjt75jU-e6SAxUD5MkDHXKqDJgQnPAOegQIYxAB..i&w=640&h=424&hcb=2&ved=2ahUKEwjt75jU-e6SAxUD5MkDHXKqDJgQnPAOegQIYxAB);
+    background-image: url(https://www.floristeriamorris.com/wp-content/uploads/Descifrando-el-significado-de-las-rosas-azules.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img{
